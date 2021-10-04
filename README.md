@@ -9,7 +9,7 @@
 Repository to learn NestJs 
 
     Powered by Udemy:
-    https://www.udemy.com/course/nestjs-the-complete-developers-guide/l
+    https://www.udemy.com/course/nestjs-the-complete-developers-guide/
 
 ## The stack
 - [x] NESTJS
