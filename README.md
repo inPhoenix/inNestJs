@@ -13,3 +13,7 @@ Repository to learn NestJs
 
 ## The stack
 - [x] NESTJS
+
+How to start
+
+    npx ts-node-dev src/main.ts
